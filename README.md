@@ -14,7 +14,7 @@
   
   <div id="badges">
   <p align="center">
-  <a href="www.linkedin.com/in/bianca-defelipe-761795276" target="_blank">
+  <a href="https://ar.linkedin.com/in/bianca-defelipe-761795276" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
   <a href ="mailto:biancadef03@gmail.com?" target= "_blank">
